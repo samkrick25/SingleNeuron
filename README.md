@@ -4,4 +4,4 @@ code for visualizing and finding targeted region frequencies of single neuron re
 depends on numpy, pandas, and brainrender python packages, install with pip
 
 
-examples for how to load data, get frequency DataFrame, and visualize single cells can be found in example.py
+examples for how to load data, get frequency DataFrame, and visualize single cells can be found in example.py, Spyder 6 IDE is recommended
